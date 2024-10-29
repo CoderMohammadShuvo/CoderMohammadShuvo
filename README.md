@@ -27,7 +27,6 @@ I’m a Senior Developer and Project Manager , with a passion for AI, machine le
 - Closed **200+ issues** and merged **150+ pull requests**
 - Actively contributing to open-source SaaS and AI automation
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=CoderMohammadShuvo&theme=react-dark)
 
 ---
 
@@ -47,4 +46,4 @@ I’m a Senior Developer and Project Manager , with a passion for AI, machine le
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=CoderMohammadShuvo&color=blue)
