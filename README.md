@@ -15,9 +15,9 @@ I’m a Senior Developer and Project Manager , with a passion for AI, machine le
 
 ### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderMohammadShuvo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMohammadShuvo&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=CoderMohammadShuvo&theme=radical)
 
 ---
 
@@ -27,22 +27,10 @@ I’m a Senior Developer and Project Manager , with a passion for AI, machine le
 - Closed **200+ issues** and merged **150+ pull requests**
 - Actively contributing to open-source SaaS and AI automation
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=CoderMohammadShuvo&theme=react-dark)
 
 ---
 
-### 🌟 Featured Projects
-- [**SuperShop POS**](https://github.com/YOUR_USERNAME/SUPER_SHOP_POS) - A full-featured Point of Sale solution for supershops.
-  ![Repo Stars](https://img.shields.io/github/stars/YOUR_USERNAME/SUPER_SHOP_POS?style=social)
-  ![Repo Forks](https://img.shields.io/github/forks/YOUR_USERNAME/SUPER_SHOP_POS?style=social)
-  
-- [**E-commerce Platform**](https://github.com/YOUR_USERNAME/ECOMMERCE_PLATFORM) - A complete multi-vendor e-commerce platform with inventory management.
-  ![Repo Stars](https://img.shields.io/github/stars/YOUR_USERNAME/ECOMMERCE_PLATFORM?style=social)
-  ![Repo Forks](https://img.shields.io/github/forks/YOUR_USERNAME/ECOMMERCE_PLATFORM?style=social)
-
-- [**AI Automation Tools**](https://github.com/YOUR_USERNAME/AI_AUTOMATION_TOOLS) - Tools for automated chatbots, content generation, and AI-driven workflows.
-  ![Repo Stars](https://img.shields.io/github/stars/YOUR_USERNAME/AI_AUTOMATION_TOOLS?style=social)
-  ![Repo Forks](https://img.shields.io/github/forks/YOUR_USERNAME/AI_AUTOMATION_TOOLS?style=social)
 
 ---
 
@@ -57,11 +45,6 @@ I’m a Senior Developer and Project Manager , with a passion for AI, machine le
 ---
 
 
----
 
-### 📬 Let's Connect
-- [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
-- [Twitter](https://twitter.com/YOUR_USERNAME)
-- [Techsoul](https://techsoul.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
