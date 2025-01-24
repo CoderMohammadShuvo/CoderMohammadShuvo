@@ -1,19 +1,9 @@
-# 👋 Hey there, I'm Mohammad Shuvo!
-**Architect of the digital unknown. Navigating the shadows of the web, crafting echoes in the void.**
+[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-With a strong focus on **engineering leadership**, I thrive on building high-performing teams and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience** and **cloud and infrastructure technologies**, where I turn complex challenges into opportunities for growth.
+<p align="left">
+  <img width="320" height="445" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21jsj34glwsu3dboqjpqzm2sa&cover_image=true&theme=default&bar_color=ff0000&bar_color_cover=true">
+</p>
 
-🔭 Leading teams on transformative projects to reshape industries.
-
-🌱 Continuously learning and empowering others through mentorship and collaboration.
-
-🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+[![Kittinan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kittinan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
