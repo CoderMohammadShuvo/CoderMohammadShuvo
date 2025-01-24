@@ -6,7 +6,7 @@ I’m a Senior Developer and Project Manager , with a passion for AI, machine le
 
 ### 👨‍💻 About Me
 - 🌍 Based in Bangladesh, working with a global mindset
-- 🔭 Currently building e-commerce, ERP, PWA and SaaS solutions at [Techsoul](https://github.com/YOUR_COMPANY_REPO)
+- 🔭 Currently building e-commerce, ERP, PWA and SaaS solutions at [FathSoft]
 - 🌱 Learning advanced AI and exploring Web3 tech
 - 💬 Ask me about Next.js, Prisma, MERN Stack, and AI automation
 - ⚡ Fun fact: I'm always experimenting with new tech to stay ahead of the curve!
